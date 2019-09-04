@@ -1,28 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jpezeta.github.io" resolutions="1x" timestamp="1567400026431">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jpezeta.github.io" resolutions="1x" timestamp="1567575683260">
   <folder name="css">
     <file name="site_global.css" crc="450064303"/>
-    <file name="index.css" crc="442125536" ref="index"/>
+    <file name="index.css" crc="489060088" ref="index"/>
     <file name="nomq_index.css" crc="233430247" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="pf bague sans pro light.woff" crc="3840275720"/>
-    <file name="pf bague sans pro light.eot" crc="506577772"/>
-    <file name="pf bague sans pro light.svg" crc="407922713"/>
     <file name="pf bague sans pro medium.woff" crc="4185519218"/>
     <file name="pf bague sans pro medium.eot" crc="4028384164"/>
     <file name="pf bague sans pro medium.svg" crc="4105906381"/>
-    <file name="pf bague sans pro bold.woff" crc="459071141"/>
-    <file name="pf bague sans pro bold.eot" crc="408218028"/>
-    <file name="pf bague sans pro bold.svg" crc="3927896836"/>
-    <file name="pf bague sans pro.woff" crc="3770293047"/>
-    <file name="pf bague sans pro.eot" crc="462402246"/>
-    <file name="pf bague sans pro.svg" crc="379474642"/>
+    <file name="pf bague sans pro light.woff" crc="3840275720"/>
+    <file name="pf bague sans pro light.eot" crc="506577772"/>
+    <file name="pf bague sans pro light.svg" crc="407922713"/>
     <file name="pf bague sans pro thin.woff" crc="242899617"/>
     <file name="pf bague sans pro thin.eot" crc="468560456"/>
     <file name="pf bague sans pro thin.svg" crc="4122895354"/>
+    <file name="pf bague sans pro bold.woff" crc="459071141"/>
+    <file name="pf bague sans pro bold.eot" crc="408218028"/>
+    <file name="pf bague sans pro bold.svg" crc="3927896836"/>
     <file name="pf bague sans pro ultra black.woff" crc="84813548"/>
     <file name="pf bague sans pro ultra black.eot" crc="4957925"/>
     <file name="pf bague sans pro ultra black.svg" crc="53938182"/>
+    <file name="pf bague sans pro.woff" crc="3770293047"/>
+    <file name="pf bague sans pro.eot" crc="462402246"/>
+    <file name="pf bague sans pro.svg" crc="379474642"/>
     <file name="alpaca scarlett1.woff" crc="320328747"/>
     <file name="alpaca scarlett1.eot" crc="4005115137"/>
     <file name="alpaca scarlett1.svg" crc="3992884544"/>
@@ -114,8 +114,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="camarachico_poster_.png" crc="26807751" ref="phone>index"/>
-    <file name="31murales-u84805-fr.jpg" crc="4083261639" ref="phone>index"/>
+    <file name="35clausurapp-u35743-fr.jpg" crc="110020127" ref="phone>index"/>
     <file name="logolima.svg" crc="4291623396" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -151,6 +154,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="logolima_poster_.png" crc="181575075" ref="phone>index"/>
+    <file name="31murales-u84805-fr.jpg" crc="4083261639" ref="phone>index"/>
     <file name="32pepe-u84797-fr.jpg" crc="261307911" ref="phone>index"/>
     <file name="33lucho-u84756-fr.jpg" crc="182876356" ref="phone>index"/>
     <file name="21popeyes-u36381-fr.jpg" crc="3888627920" ref="phone>index"/>
@@ -222,12 +226,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logosaga_poster_.png" crc="163386132" ref="phone>index"/>
-    <file name="35clausurapp-u35743-fr.jpg" crc="110020127" ref="phone>index"/>
     <file name="11casacaliente-u36135-fr.jpg" crc="401528235" ref="phone>index"/>
     <file name="logoconcy.svg" crc="57886669" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
@@ -1576,17 +1576,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3852858151" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="263492196" ref="tablet>index"/>
+      <file name="index.css" crc="4056527405" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3952590132" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="258383067" seo="true" mt="1567399084340" redirect="true"/>
+    <file name="index.html" crc="4098690654" seo="true" mt="1567575453337" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3935349733" ref="phone>index"/>
+      <file name="index.css" crc="344742600" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="451790414" seo="true" mt="1567399110897" redirect="true"/>
+    <file name="index.html" crc="370193625" seo="true" mt="1567575586728" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3993476082" seo="true" mt="1567399062470" redirect="true"/>
+  <file name="index.html" crc="3843221467" seo="true" mt="1567399062470" redirect="true"/>
 </manifest>
