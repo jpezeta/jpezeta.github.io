@@ -25,11 +25,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="../images/inicio-favicon.ico?crc=108283347"/>
   <title>Juan Pablo Ezeta</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=450064303"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4056527405" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=68549508"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3960083195" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3952590132" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3855333115" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -713,7 +713,7 @@ overflow-x:hidden;
              <img class="svg temp_no_img_src" id="u85566" data-orig-src="../images/jpezetalog.svg?crc=3859212169" width="554" height="93" alt="" data-mu-svgfallback="../images/jpezetalog_poster_.png?crc=4020781902" src="../images/blank.gif?crc=4208392903"/>
             </div>
             <div class="clearfix colelem shared_content" id="u84923-7" data-content-guid="u84923-7_content"><!-- content -->
-             <p>Bachiller en Comunicación por la Universidad de Lima, con experiencia en el sector audiovisual y publicitario. Actualmente me desempeño como comunicador freelancer desarrollando variados proyectos para el sector público y privado.</p>
+             <p>Bachiller en Comunicación por la Universidad de Lima, con experiencia en el sector audiovisual y publicitario. Actualmente me desempeño como pos-productor audiovisual en la agencia Wunderman Thompson.</p>
              <p>&nbsp;</p>
              <p>Los dos pilares sobre los cuales se desarrolla mi trabajo son: innovación y creatividad. Me encanta trabajar en equipo, sobre todo cuando puedo aportar con mi conocimiento y al mismo tiempo recibirlo de otros profesionales.</p>
             </div>
@@ -3494,10 +3494,10 @@ Muse.Utils.initWidget('#pamphletu63378', ['#bp_infinity', '#bp_768'], function(e
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_768'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#pamphletu63868', ['#bp_infinity', '#bp_768'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'mouseout_click',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,triggersOnTop:true,shuffle:false,enableSwipe:false,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu63868 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#bp_768').one('muse_this_bp_activate', function(){
 $('#pamphletu63868').registerPositionScrollEffect([{"in":[-Infinity,0.85],"speed":[0,0]},{"in":[0.85,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
-$('#bp_768').one('muse_this_bp_activate', function(){
+$('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#pamphletu63868').registerPositionScrollEffect([{"in":[-Infinity,0.85],"speed":[0,0]},{"in":[0.85,Infinity],"speed":[0,0]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
