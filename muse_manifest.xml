@@ -1,28 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jpezeta.github.io" resolutions="1x" timestamp="1570562071768">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jpezeta.github.io" resolutions="1x" timestamp="1605298795750">
   <folder name="css">
     <file name="site_global.css" crc="68549508"/>
-    <file name="index.css" crc="4126446521" ref="index"/>
-    <file name="nomq_index.css" crc="3925814344" ref="index"/>
+    <file name="index.css" crc="4142369392" ref="index"/>
+    <file name="nomq_index.css" crc="3889205165" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="pf bague sans pro bold.woff" crc="459071141"/>
-    <file name="pf bague sans pro bold.eot" crc="408218028"/>
-    <file name="pf bague sans pro bold.svg" crc="3927896836"/>
-    <file name="pf bague sans pro medium.woff" crc="4185519218"/>
-    <file name="pf bague sans pro medium.eot" crc="4028384164"/>
-    <file name="pf bague sans pro medium.svg" crc="4105906381"/>
-    <file name="pf bague sans pro.woff" crc="3770293047"/>
-    <file name="pf bague sans pro.eot" crc="462402246"/>
-    <file name="pf bague sans pro.svg" crc="379474642"/>
-    <file name="pf bague sans pro ultra black.woff" crc="84813548"/>
-    <file name="pf bague sans pro ultra black.eot" crc="4957925"/>
-    <file name="pf bague sans pro ultra black.svg" crc="53938182"/>
-    <file name="pf bague sans pro light.woff" crc="3840275720"/>
-    <file name="pf bague sans pro light.eot" crc="506577772"/>
-    <file name="pf bague sans pro light.svg" crc="407922713"/>
     <file name="pf bague sans pro thin.woff" crc="242899617"/>
     <file name="pf bague sans pro thin.eot" crc="468560456"/>
     <file name="pf bague sans pro thin.svg" crc="4122895354"/>
+    <file name="pf bague sans pro medium.woff" crc="4185519218"/>
+    <file name="pf bague sans pro medium.eot" crc="4028384164"/>
+    <file name="pf bague sans pro medium.svg" crc="4105906381"/>
+    <file name="pf bague sans pro bold.woff" crc="459071141"/>
+    <file name="pf bague sans pro bold.eot" crc="408218028"/>
+    <file name="pf bague sans pro bold.svg" crc="3927896836"/>
+    <file name="pf bague sans pro light.woff" crc="3840275720"/>
+    <file name="pf bague sans pro light.eot" crc="506577772"/>
+    <file name="pf bague sans pro light.svg" crc="407922713"/>
+    <file name="pf bague sans pro ultra black.woff" crc="84813548"/>
+    <file name="pf bague sans pro ultra black.eot" crc="4957925"/>
+    <file name="pf bague sans pro ultra black.svg" crc="53938182"/>
+    <file name="pf bague sans pro.woff" crc="3770293047"/>
+    <file name="pf bague sans pro.eot" crc="462402246"/>
+    <file name="pf bague sans pro.svg" crc="379474642"/>
     <file name="alpaca scarlett1.woff" crc="320328747"/>
     <file name="alpaca scarlett1.eot" crc="4005115137"/>
     <file name="alpaca scarlett1.svg" crc="3992884544"/>
@@ -49,20 +49,20 @@
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index"/>
-    <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:tablet>index:index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="phone>index:tablet>index:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
-    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="tablet>index:index"/>
   </folder>
   <folder name="images">
     <file name="inicio-favicon.ico" crc="108283347" ref="phone>index"/>
@@ -78,7 +78,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="play_poster_.png" crc="477021756" ref="phone>index"/>
-    <file name="wolfpackback.jpg" crc="4096930018" ref="phone>index:tablet>index:index">
+    <file name="fondoabstracto.jpg" crc="4096930018" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1576,17 +1576,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3960083195" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="3855333115" ref="tablet>index"/>
+      <file name="index.css" crc="501346767" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="143278714" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="301580542" seo="true" mt="1570561984488" redirect="true"/>
+    <file name="index.html" crc="76186936" seo="true" mt="1605298709766" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3992956192" ref="phone>index"/>
+      <file name="index.css" crc="241451965" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="263253090" seo="true" mt="1570562005566" redirect="true"/>
+    <file name="index.html" crc="4276693552" seo="true" mt="1605298734355" redirect="true"/>
   </folder>
-  <file name="index.html" crc="400182187" seo="true" mt="1570561961022" redirect="true"/>
+  <file name="index.html" crc="4077338657" seo="true" mt="1605298696803" redirect="true"/>
 </manifest>
