@@ -1,28 +1,28 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jpezeta.github.io" resolutions="1x" timestamp="1616355245095">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jpezeta.github.io" resolutions="1x" timestamp="1616357935018">
   <folder name="css">
     <file name="site_global.css" crc="450064303"/>
-    <file name="index.css" crc="439208272" ref="index"/>
-    <file name="nomq_index.css" crc="181287886" ref="index"/>
+    <file name="index.css" crc="3970312082" ref="index"/>
+    <file name="nomq_index.css" crc="479515741" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="pf bague sans pro ultra black.woff" crc="84813548"/>
     <file name="pf bague sans pro ultra black.eot" crc="4957925"/>
     <file name="pf bague sans pro ultra black.svg" crc="53938182"/>
-    <file name="pf bague sans pro thin.woff" crc="242899617"/>
-    <file name="pf bague sans pro thin.eot" crc="468560456"/>
-    <file name="pf bague sans pro thin.svg" crc="4122895354"/>
-    <file name="pf bague sans pro.woff" crc="3770293047"/>
-    <file name="pf bague sans pro.eot" crc="462402246"/>
-    <file name="pf bague sans pro.svg" crc="379474642"/>
-    <file name="pf bague sans pro medium.woff" crc="4185519218"/>
-    <file name="pf bague sans pro medium.eot" crc="4028384164"/>
-    <file name="pf bague sans pro medium.svg" crc="4105906381"/>
     <file name="pf bague sans pro light.woff" crc="3840275720"/>
     <file name="pf bague sans pro light.eot" crc="506577772"/>
     <file name="pf bague sans pro light.svg" crc="407922713"/>
+    <file name="pf bague sans pro medium.woff" crc="4185519218"/>
+    <file name="pf bague sans pro medium.eot" crc="4028384164"/>
+    <file name="pf bague sans pro medium.svg" crc="4105906381"/>
+    <file name="pf bague sans pro.woff" crc="3770293047"/>
+    <file name="pf bague sans pro.eot" crc="462402246"/>
+    <file name="pf bague sans pro.svg" crc="379474642"/>
     <file name="pf bague sans pro bold.woff" crc="459071141"/>
     <file name="pf bague sans pro bold.eot" crc="408218028"/>
     <file name="pf bague sans pro bold.svg" crc="3927896836"/>
+    <file name="pf bague sans pro thin.woff" crc="242899617"/>
+    <file name="pf bague sans pro thin.eot" crc="468560456"/>
+    <file name="pf bague sans pro thin.svg" crc="4122895354"/>
     <file name="alpaca scarlett1.woff" crc="320328747"/>
     <file name="alpaca scarlett1.eot" crc="4005115137"/>
     <file name="alpaca scarlett1.svg" crc="3992884544"/>
@@ -1576,17 +1576,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3787370537" ref="tablet>index"/>
+      <file name="index.css" crc="133838677" ref="tablet>index"/>
       <file name="nomq_index.css" crc="4256541918" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4230987035" seo="true" mt="1616355111538" redirect="true"/>
+    <file name="index.html" crc="208602594" seo="true" mt="1616357775632" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="9008741" ref="phone>index"/>
+      <file name="index.css" crc="325221038" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="323302948" seo="true" mt="1616355154707" redirect="true"/>
+    <file name="index.html" crc="3864741084" seo="true" mt="1616357789896" redirect="true"/>
   </folder>
-  <file name="index.html" crc="246273315" seo="true" mt="1616354559943" redirect="true"/>
+  <file name="index.html" crc="383915174" seo="true" mt="1616357748513" redirect="true"/>
 </manifest>
