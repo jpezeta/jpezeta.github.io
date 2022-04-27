@@ -26,10 +26,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Juan Pablo Ezeta</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=450064303"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3993462815" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3920511536" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3938488128" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=167083012" id="nomq_pagesheet"/>
   <![endif]-->
     <!--custom head HTML-->
   <style>
@@ -862,14 +862,14 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initializeAnimations();/* animations */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#pamphletu93085', ['#bp_infinity', '#bp_1366', '#bp_1024'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu93085 */
+$('#bp_1366').one('muse_this_bp_activate', function(){
+$('#u93776-6').registerPositionScrollEffect([{"in":[-Infinity,75.94],"speed":[0,1]},{"in":[75.94,Infinity],"speed":[0,0.7]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
 $('#bp_1024').one('muse_this_bp_activate', function(){
 $('#u93776-6').registerPositionScrollEffect([{"in":[-Infinity,68.1],"speed":[0,1]},{"in":[68.1,Infinity],"speed":[0,0.7]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
 $('#u93776-6').registerPositionScrollEffect([{"in":[-Infinity,185.5],"speed":[0,1]},{"in":[185.5,Infinity],"speed":[0,0.7]}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
-$('#bp_1366').one('muse_this_bp_activate', function(){
-$('#u93776-6').registerPositionScrollEffect([{"in":[-Infinity,75.94],"speed":[0,1]},{"in":[75.94,Infinity],"speed":[0,0.7]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

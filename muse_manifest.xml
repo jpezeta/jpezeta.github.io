@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jpezeta.github.io" resolutions="1x" timestamp="1651029425906">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jpezeta.github.io" resolutions="1x" timestamp="1651032527192">
   <folder name="css">
     <file name="site_global.css" crc="450064303"/>
-    <file name="index.css" crc="3993462815" ref="index"/>
-    <file name="nomq_index.css" crc="3938488128" ref="index"/>
+    <file name="index.css" crc="3920511536" ref="index"/>
+    <file name="nomq_index.css" crc="167083012" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="pf bague sans pro.woff" crc="3770293047"/>
@@ -60,10 +60,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="432920404" ref="phone>index"/>
+      <file name="index.css" crc="13776939" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="151939937" seo="true" mt="1651029341430" redirect="true"/>
+    <file name="index.html" crc="4022179014" seo="true" mt="1651032026801" redirect="true"/>
   </folder>
-  <file name="index.html" crc="384425635" seo="true" mt="1651029320747" redirect="true"/>
+  <file name="index.html" crc="4013555197" seo="true" mt="1651032477229" redirect="true"/>
 </manifest>
